@@ -1,0 +1,1 @@
+from .squad_v2 import SquadV2,SquadV2Config
